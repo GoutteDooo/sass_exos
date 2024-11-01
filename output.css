@@ -1,0 +1,9 @@
+h1 {
+  background: red;
+}
+
+div h1 {
+  background: blue;
+}
+
+/*# sourceMappingURL=output.css.map */
